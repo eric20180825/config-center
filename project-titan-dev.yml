@@ -1,4 +1,4 @@
 project:
     pay:
-	    domain: http://localhost:8080
+      domain: http://localhost:8080
     aeskey: fadf23r5cgagfa45
